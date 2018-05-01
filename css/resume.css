@@ -150,3 +150,8 @@ a:hover, a:focus, a:active {
 a.mute-link {
   color: inherit;
 }
+
+.badge-resume {
+  color:#FFF;
+  background: #EC891D;
+}
