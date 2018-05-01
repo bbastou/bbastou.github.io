@@ -155,3 +155,7 @@ a.mute-link {
   color:#FFF;
   background: #EC891D;
 }
+
+img.card-img-top {
+  max-height: 233px;
+}
